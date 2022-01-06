@@ -1,0 +1,168 @@
+body{
+    padding: 0%;
+    margin: 0%;
+   
+}
+h1, h2, h3, h4, h4, h6{
+    color: white;
+    font-family: Manrope;
+}
+
+p{
+    color: white;
+    font-family: sans-serif;
+    font-weight: 200;
+}
+
+button{
+    
+    font-family: Manrope;
+}
+
+
+.herosec{
+
+    height: auto;
+    width: 100%;
+
+}
+
+
+.nav{
+    width: 100%;
+    display: flex;
+     }
+
+     .nav{
+         padding-top: 2%;
+         padding-left: 7% !important;
+     }
+
+ .menu ul li{
+    list-style-type: none;
+    display: inline;
+ }
+
+ .menu a ul li{
+    color: white;
+    text-decoration: none;
+ }
+
+ .nav h1{
+    font-size: 22px;
+ }
+
+ .logo{
+     width: 20%;
+     padding-top: 7px;
+ }
+
+ .menu{
+    width: 60%;
+    text-align: right;
+    padding-right: 4%;
+    padding-top: 7px;
+}
+
+.button{
+    width: 20%;
+    padding-left: 2%;
+    border-radius: 12px;
+ 
+}
+button a{
+    color: rgb(255, 0, 179);
+text-decoration: none;
+font-family: Manrope;
+    
+}
+
+
+
+button{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: rgb(105, 105, 105);
+}
+
+.button button{
+    border-radius: 20px;
+}
+
+button a:hover{
+    color: white;
+}
+
+.herosectext{
+    padding-top: 2%;
+    
+    padding-bottom: 12%;
+}
+
+.herosectext h1{
+font-size: 10vh;
+text-align: center;
+padding-left: 25%;
+padding-right: 25%;
+font-weight: 600;
+}
+
+.herosectext p{
+    font-size: 3vh;
+    text-align: center;
+    padding-left: 28%;
+    padding-right: 28%;
+   
+    }
+    .menu ul li a {
+        color: white;
+        text-decoration: none;
+     }
+
+     .learnmore button a {
+
+        text-decoration: none;
+     }
+
+     .learnmore button {
+       padding-top: 10px;
+       padding-bottom: 10px;
+       padding-left: 45px;
+       padding-right: 45px;
+       border-radius: 35px;
+       }
+
+       .learnmore {
+           padding-left: 38%;
+           padding-top: 1%;
+       }
+
+       .learnmore .btn1 a{
+           background-color: rgb(199, 0, 182);
+           color: white;
+           border: none;
+           font-family: Manrope;
+       }
+
+       .learnmore .btn1 {
+        background-color: rgb(199, 0, 182);
+        border: none;
+    }
+
+       .learnmore .btn2 a{
+        background-color: white;
+        color: black;
+        border: none;
+        font-family: Manrope;
+    }
+
+    .learnmore .btn2{
+        background-color: white;
+    
+        border: none;
+    }
+
+
+     
